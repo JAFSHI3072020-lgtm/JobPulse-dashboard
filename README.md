@@ -1,5 +1,7 @@
 # JobPulse — Job Finder Dashboard
 
+LINK-https://job-pulse-dashboard.vercel.app/
+
 A polished portfolio-ready job finder dashboard built with React 18, Vite, JavaScript, Tailwind CSS, Framer Motion, and Lucide React.
 
 ## Highlights
@@ -56,3 +58,6 @@ job-finder-dashboard/
 ```
 
 Replace `src/data/mockJobs.js` with REST API data when connecting a backend.
+
+
+
